@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miriacode
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Front-end and Back-end development
+- 🌱 I’m currently making projects with React JS
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: Follow me on Twitter @miriacode
 
