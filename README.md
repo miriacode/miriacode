@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miriam Acuña (@miriacode), a Full-Stack Developer knowledgeable about HTML, CSS, Javascript, ReactJS, Python, Java, Spring, NodeJS, Express, MongoDB and MySQL. Passionate about web development,   problem-solving and algorithms. Developer with excellent team communication skills and with a genuine thirst for knowledge.
 - 👀 I’m interested in Front-end and Back-end development
 - 🌱 I’m currently making projects with React JS
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on front-end web development projects
 - 📫 How to reach me: Follow me on Twitter @miriacode
 
 <!---
