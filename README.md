@@ -6,10 +6,12 @@
 
 ## 📊 My stats ...
 
+<!---
 <p align="center" style="float: right">
   <img src="https://github-readme-stats.vercel.app/api?username=miriacode&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriacode&layout=compact&theme=tokyonight" />
 </p>
+--->
 
 <!---
 miriacode/miriacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
