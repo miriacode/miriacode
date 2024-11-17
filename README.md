@@ -1,4 +1,4 @@
-👋 Hi! I am Miriam Acuña. **Full-Stack Developer** with a stronger focus on **Front-End Development**. I have nearly **2 years of experience** in the **e-commerce industry**. I'm a developer with excellent leadership and team communication skills. I am also a problem-solver, and I don't give up until something gets fixed. I pursue high-quality work and reliable code.
+👋 Hi! I am Miriam Acuña. **Full-Stack Developer** with a stronger focus on **Front-End Development**. I have over **2 years of experience** in the **e-commerce industry**. I'm a developer with excellent leadership and team communication skills. I am also a problem-solver, and I don't give up until something gets fixed. I pursue high-quality work and reliable code.
 
 ## Skills and Experience
 
@@ -26,3 +26,5 @@ Feel free to reach me on the social media platforms listed below:
 * [X @miriacode](https://www.twitter.com/miriacode)
 * [LinkedIn](https://www.linkedin.com/in/miriam-acuna-enciso/)
 
+ I also write articles on Dev.to ✍️
+ * [DevTo @miriacode](https://dev.to/miriacode)
