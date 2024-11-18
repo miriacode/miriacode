@@ -26,5 +26,5 @@ Feel free to reach me on the social media platforms listed below:
 * [X @miriacode](https://www.twitter.com/miriacode)
 * [LinkedIn](https://www.linkedin.com/in/miriam-acuna-enciso/)
 
- I also write articles on Dev.to ✍️
+ I also write articles on DEV ✍️
  * [dev.to @miriacode](https://dev.to/miriacode)
