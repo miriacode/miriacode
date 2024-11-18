@@ -3,7 +3,7 @@
 ## Skills and Experience
 
 - **Front-End Development**: Experience with **React** and front-end technologies such as HTML, CSS, JavaScript and Tailwind CSS.
-- **Back-End Development**: Experience with Node.js, Express.js, and database technologies like SQL and Sequelize ORM. Used in REST and GraphQL Protocols.
+- **Back-End Development**: Experience with **Node.js**, Express.js, and database technologies like SQL and Sequelize ORM. Used in REST and GraphQL Protocols.
 - **English Proficiency**: Certified **C2 level of English proficiency** (CEFR) with an **ECPE certification** by the University of Michigan.
   
 <div align="center">
