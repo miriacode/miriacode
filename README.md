@@ -27,4 +27,4 @@ Feel free to reach me on the social media platforms listed below:
 * [LinkedIn](https://www.linkedin.com/in/miriam-acuna-enciso/)
 
  I also write articles on Dev.to ✍️
- * [DevTo @miriacode](https://dev.to/miriacode)
+ * [dev.to @miriacode](https://dev.to/miriacode)
