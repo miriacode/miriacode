@@ -18,7 +18,9 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img width="50" src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" alt="React Query" title="React Query"/>
   <img width="50" src="https://github.com/user-attachments/assets/92585655-cd16-4df6-8f9b-da2e3af82888" alt="Apollo Client" title="Apollo Client"/>
+</div>
 
+<div align="center">
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
   <img width="50" src="https://github.com/user-attachments/assets/834c7a84-52c2-4d17-8811-e991ea65f8c4" alt="MySQL" title="MySQL"/>
