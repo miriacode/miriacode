@@ -11,17 +11,17 @@
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next" />
+  <img width="50" src="https://github.com/user-attachments/assets/c8921f71-b9d1-45fc-bcd4-020d15f5a62a" alt="Next.js" title="Next" />
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git">
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img width="50" src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" alt="React Query" title="React Query"/>
-  <img width="50" src="https://github.com/user-attachments/assets/92585655-cd16-4df6-8f9b-da2e3af82888" alt="Apollo Client" title="Apollo Client"/>
+  <img width="50" src="https://github.com/user-attachments/assets/a1299201-4c88-41a9-a83b-d0f4ec7cfda3" alt="Apollo Client" title="Apollo Client"/>
 </div>
 
 <div align="center">
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+  <img width="50" src="https://github.com/user-attachments/assets/f52f1ef3-e00d-414e-bb1f-78b7bc456e35" alt="Node.js" title="Node.js"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
   <img width="50" src="https://github.com/user-attachments/assets/834c7a84-52c2-4d17-8811-e991ea65f8c4" alt="MySQL" title="MySQL"/>
   <img width="50" src="https://github.com/user-attachments/assets/a36aaa30-3fbe-466d-b63e-784de70766d0" alt="SequelizeORM" title="SequelizeORM"/>
@@ -42,5 +42,9 @@ Feel free to reach me on the social media platforms listed below:
 * [X @miriacode](https://www.twitter.com/miriacode)
 * [LinkedIn](https://www.linkedin.com/in/miriam-acuna-enciso/)
 
+
  I also write articles on DEV ✍️
  * [dev.to @miriacode](https://dev.to/miriacode)
+
+
+
