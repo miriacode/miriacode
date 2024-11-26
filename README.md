@@ -27,9 +27,13 @@
   <img width="50" src="https://github.com/user-attachments/assets/a36aaa30-3fbe-466d-b63e-784de70766d0" alt="SequelizeORM" title="SequelizeORM"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
+</div>
 
+<div align="center">
   <img width="50" src="https://github.com/user-attachments/assets/362cffbb-d63d-4ff3-9f76-7ffbd43785e7" alt="AWS" title="AWS"/>
   <img width="50" src="https://github.com/user-attachments/assets/d3dce298-86e6-461e-8a0c-f6f66e9267d5" alt="Postmark" title="Postmark" />
+  <img width="50" src="https://github.com/user-attachments/assets/a8ebdf20-51aa-4b40-a8e1-9463748ab6be" alt="Algolia" title="Algolia" />
+
 </div>
 
 ## 📫 How to reach me:
