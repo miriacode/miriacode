@@ -4,7 +4,7 @@
 
 - **Front-End Development**: Experience with **React** and front-end technologies such as Javascript, Typescript, Next.js, HTML, CSS, Tailwind CSS, ReactQuery(TanStack Query) and Apollo Client.
 - **Back-End Development**: Experience with **Node.js**, Express.js, and SQL technologies like MySQL and Sequelize ORM. Used in REST and GraphQL Protocols.
-- **Tools**: Experience with AWS, Postmark, Algolia, Google Tag Manager, Google Analytics.
+- **Tools**: Experience with AWS, Postmark, Algolia, Cloudinary, Google Tag Manager, Google Analytics.
 - **English Proficiency**: Certified **C2 level of English proficiency** (CEFR) with an [**ECPE certification**](https://drive.google.com/file/d/1dDNEPN4pRxmYEddPCTkE-3_O7MPoIaCp/view?trk=public_profile_see-credential) by the University of Michigan.
   
 <div align="center">
