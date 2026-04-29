@@ -1,4 +1,4 @@
-👋 Hi! I am Miriam Acuña. **Full-Stack Developer** with a stronger focus on **Front-End Development**. I have **3+ years of experience**. I'm a developer with excellent leadership and team communication skills. I am also a problem-solver, and I don't give up until something gets fixed. I pursue high-quality work and reliable code.
+👋 Hi! I am Miriam Acuña. **Full-Stack Developer** with a stronger focus on **Front-End Development**. I have almost **4 years of experience**. I'm a developer with excellent leadership and team communication skills. I am also a problem-solver, and I don't give up until something gets fixed. I pursue high-quality work and reliable code.
 
 ## Skills and Experience
 
