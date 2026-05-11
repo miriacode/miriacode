@@ -40,7 +40,7 @@
   Query"/><br><sub>React Query</sub></td>
       <td align="center"><img width="40"
   src="https://github.com/user-attachments/assets/a1299201-4c88-41a9-a83b-d0f4ec7cfda3" alt="Apollo
-  Client"/><br><sub>Apollo</sub></td>
+  Client"/><br><sub>Apollo Client</sub></td>
     </tr>
   </table>
 
