@@ -2,7 +2,7 @@
   production features for B2B commerce platforms across LATAM.
   
   I'm a bilingual developer (English Certified **C2 level** (CEFR) with the [**ECPE certification**](https://drive.google.com/file/d/1dDNEPN4pRxmYEddPCTkE-3_O7MPoIaCp/view?trk=public_profile_see-credential) issued by the University of Michigan.) with strong leadership and team communication skills.
-   I'm also a problem-solver. I don't give up until something gets fixed. I pursue high-quality, reliable code, and lean on AI tools like **Claude Code** to ship faster they handle the scaffolding so I can focus on architecture and tradeoffs.
+   I'm also a problem-solver. I don't give up until something gets fixed. I pursue high-quality, reliable code, and lean on AI tools like **Claude Code** to ship faster they handle the scaffolding so I can focus on architecture and tradeoffs. I also write articles on [DEV.to](https://dev.to/miriacode). I am always eager to learn and grow, excited about the opportunities and challenges that future projects will bring. [Contact me here](https://miriacode.vercel.app/#contact)
   
   ## Skills and Experience
 
@@ -105,6 +105,8 @@
   - **Agile & Collaboration**:
 
   <table align="center">
+     <td align="center"><img width="40" src="https://avatars.githubusercontent.com/u/46686594?s=200&v=4" alt="Linear"/>
+       <br><sub>Linear</sub></td>
       <td align="center"><img width="40"
   src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg"
   alt="Slack"/><br><sub>Slack</sub></td>
@@ -112,20 +114,3 @@
   alt="Notion"/><br><sub>Notion</sub></td>
     </tr>
   </table>
-
-  ## 📫 How to reach me
-
-  I am always eager to learn and grow, excited about the opportunities and challenges that future projects will
-   bring.
-
-  * 🌐 [Send me a message here](https://miriacode.vercel.app/#contact)
-  * <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" 
-  alt="LinkedIn"/> [Miriam Acuña](https://www.linkedin.com/in/miriam-acuna-enciso/)
-  * <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/E8EDF5"><img 
-  src="https://cdn.simpleicons.org/x/000000" width="14" alt="X"/></picture>
-  [@miriacode](https://www.twitter.com/miriacode)
-
-  I also write articles on DEV ✍️ 
-  * <picture><source media="(prefers-color-scheme: dark)" 
-  srcset="https://cdn.simpleicons.org/devdotto/E8EDF5"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" 
-  width="14" alt="DEV.to"/></picture> [@miriacode](https://dev.to/miriacode)
