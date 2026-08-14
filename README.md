@@ -2,7 +2,7 @@
   production features for B2B commerce platforms across LATAM.
   
   I'm a bilingual developer (English Certified **C2 level** (CEFR) with the [**ECPE certification**](https://drive.google.com/file/d/1dDNEPN4pRxmYEddPCTkE-3_O7MPoIaCp/view?trk=public_profile_see-credential) issued by the University of Michigan) with strong leadership and team communication skills.
-   I'm also a problem-solver. I don't give up until something gets fixed. I pursue high-quality, reliable code, and lean on AI tools like **Claude Code** to ship faster they handle the scaffolding so I can focus on architecture and tradeoffs. I also write articles on [DEV.to](https://dev.to/miriacode). I am always eager to learn and grow, excited about the opportunities and challenges that future projects will bring. [Contact me here](https://miriacode.vercel.app/#contact)
+   I'm also a problem-solver. I don't give up until something gets fixed. I pursue high-quality, reliable code, and lean on AI tools like **Claude Code** to ship faster they handle the scaffolding so I can focus on architecture and tradeoffs. I also write articles on [DEV.to](https://dev.to/miriacode). I am always eager to learn and grow, excited about the opportunities and challenges that future projects can bring. [Contact me here](https://miriacode.vercel.app/#contact)
   
   ## Skills and Experience
 
